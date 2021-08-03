@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Shoe Store</string>
+
+    <string name="login_label">Login</string>
+    <string name="instructions_label">Instructions</string>
+    <string name="welcome_label">Welcome</string>
+    <string name="listing_label">Shoes</string>
+    <string name="detail_label">Shoe</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="email_is_required">Email is required</string>
+    <string name="password_is_required">Password is required</string>
+    <string name="already_registered_message">User already registered</string>
+    <string name="successfully_registration">User registered successfully</string>
+    <string name="not_registered_message">Please sign up first</string>
+    <string name="wrong_credentials_message">Wrong email or password</string>
+    <string name="welcome">Welcome</string>
+    <string name="welcome_back">Welcome back</string>
+    <string name="_continue">Continue</string>
+    <string name="instructions">Read the next instructions</string>
+    <string name="instructions_message">
+        - Save your credentials safe\n
+        - You can see more items scrolling down/up\n
+        - You can add mor shoes selecting + button
+    </string>
+    <string name="logout">Logout</string>
+    <string name="add_shoe">Add Shoe</string>
+    <string name="name">Name</string>
+    <string name="company">Company</string>
+    <string name="size_in_cm">Size in [cm]</string>
+    <string name="description">Description</string>
+    <string name="add_shoe_title">Please fill all options to add a new Shoe</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="name_is_required">Please enter the Name</string>
+    <string name="size_is_required">Please enter the Size</string>
+    <string name="company_is_required">Please enter the Company</string>
+    <string name="description_is_required">Please enter the Description</string>
+    <string name="shoe_added_successfully">Shoe added successfully</string>
+</resources>
